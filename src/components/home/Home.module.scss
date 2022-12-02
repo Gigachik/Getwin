@@ -11,3 +11,18 @@ tbody{
     }
   }
 }
+.grid{
+  display: table;
+  margin-left: auto;
+}
+.title{
+  font-size: 22px;
+  font-weight: 600;
+}
+.item{
+  padding: 20px;
+  background: #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}

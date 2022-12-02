@@ -19,6 +19,7 @@ export const getPokemonsProfile = (name) => async (dispatch) => {
     dispatch(isLoading(false));
     dispatch(setPokemon(data));
   } catch (error) {
+    alert("Wrong pokemon name, now you see the Pokemon you picked last time");
     dispatch(isLoading(false));
   }
 };
