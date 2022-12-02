@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Getwin/static/css/main.c850afd2.css",
+    "main.js": "/Getwin/static/js/main.9e146187.js",
+    "index.html": "/Getwin/index.html",
+    "main.c850afd2.css.map": "/Getwin/static/css/main.c850afd2.css.map",
+    "main.9e146187.js.map": "/Getwin/static/js/main.9e146187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c850afd2.css",
+    "static/js/main.9e146187.js"
+  ]
+}
