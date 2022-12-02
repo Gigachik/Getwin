@@ -1,0 +1,4 @@
+export const SET_POKEMONS = "SET_POKEMONS";
+export const SET_POKEMONS_TYPE = "SET_POKEMONS_TYPE";
+export const SET_POKEMONS_BY_TYPE = "SET_POKEMONS_BY_TYPE";
+export const UPDATE_META = "UPDATE_META";
